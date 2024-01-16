@@ -1,4 +1,4 @@
-
+Link for the recording https://drive.google.com/file/d/1uzJ5YZpDpCjCNbq_7kklKyPCU78D9jic/view?usp=drive_link
 
 Program-1 // – Input the string “Python” as a list of characters from console, delete at least 2 characters, reverse the resultant string and print it.
 
